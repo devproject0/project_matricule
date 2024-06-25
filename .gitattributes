@@ -1,0 +1,4 @@
+mlpdr/weights/plate_ocr/model_final.pth filter=lfs diff=lfs merge=lfs -text
+mlpdr/weights/ocr_lp/model_final.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
